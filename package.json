@@ -1,0 +1,11 @@
+{
+  "name": "url_shortener",
+  "version": "1.0.0",
+  "description": "waite.io/shrt/q3dj32 -> google.ca",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "",
+  "license": "ISC"
+}
